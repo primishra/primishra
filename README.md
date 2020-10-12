@@ -6,6 +6,7 @@
 - Computer Languages & Tools - Python, R, C, Core Java, MATLAB, SQL, LaTex, Origin, MS Office
 
 #### Work Experience
+
 - Research Intern, IIM Calcutta (May 2020 - Present)
 - Research Intern, IASST Guwahati (DST Lab under Govt. of India) (May 2019 - June 2019)
 
