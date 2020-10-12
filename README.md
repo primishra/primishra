@@ -2,8 +2,8 @@
 
 - Applied Mathematics Student.
 - Interested in Machine Learning & Numerical Computation.
-- Languages I speak - English, Hindi, Odia
 - Computer Languages & Tools - Python, R, C, Core Java, MATLAB, SQL, LaTex, Origin, MS Office
+- Languages I speak - English, Hindi, Odia
 
 #### Work Experience
 
