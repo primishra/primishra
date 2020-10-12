@@ -1,16 +1,13 @@
-### Hi there 👋
+#### About Me
 
-<!--
-**primishra/primishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Applied Mathematics Student.
+- Interested in Machine Learning & Numerical Computation.
 
-Here are some ideas to get you started:
+#### Work Experience
+- Research Intern, IIM Calcutta (May 2020 - Present)
+- Research Intern, IASST Guwahati (DST Lab under Govt. of India) (May 2019 - June 2019)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me
+
+1. [LinkedIn](https://www.linkedin.com/in/priyabratamishra10/)
+2. [Email](imh10025.17@bitmesra.ac.in)
