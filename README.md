@@ -2,6 +2,8 @@
 
 - Applied Mathematics Student.
 - Interested in Machine Learning & Numerical Computation.
+- Languages I speak - English, Hindi, Odia
+- Computer Languages & Tools - Python, R, C, Core Java, MATLAB, SQL, LaTex, Origin, MS Office
 
 #### Work Experience
 - Research Intern, IIM Calcutta (May 2020 - Present)
@@ -9,5 +11,5 @@
 
 #### Connect with me
 
-1. [LinkedIn](https://www.linkedin.com/in/priyabratamishra10/)
-2. [Email](imh10025.17@bitmesra.ac.in)
+- [LinkedIn](https://www.linkedin.com/in/priyabratamishra10/)
+- [Email](imh10025.17@bitmesra.ac.in)
