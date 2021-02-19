@@ -13,5 +13,5 @@
 #### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/priyabratamishra10/)
-- [Email](mailto:imh10025.17@bitmesra.ac.in)
+- [Official Email](mailto:imh10025.17@bitmesra.ac.in)
 - Link to my [Personal Website](https://sites.google.com/view/priyabrata-mishra)
