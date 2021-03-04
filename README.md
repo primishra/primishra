@@ -3,7 +3,7 @@
 - Applied Mathematics Student.
 - Interested in Statistics, Machine Learning & Numerical Computation.
 - Computer Languages & Tools - Python, R, C, Core Java, MATLAB, SQL, LaTex, Origin, MS Office
-- Languages I speak - English, Hindi, Odia
+- Languages I speak - English, Hindi, & Odia
 
 #### Work Experience
 
@@ -14,5 +14,5 @@
 #### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/priyabratamishra10/)
-- [Official Email](mailto:imh10025.17@bitmesra.ac.in)
-- Link to my [Personal Website](https://sites.google.com/view/priyabrata-mishra)
+- [Official Email ID](mailto:imh10025.17@bitmesra.ac.in)
+- Link to my [Personal Website/Portfolio](https://sites.google.com/view/priyabrata-mishra)
