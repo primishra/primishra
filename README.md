@@ -15,4 +15,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/priyabratamishra10/)
 - [Official Email ID](mailto:imh10025.17@bitmesra.ac.in)
-- Link to my [Personal Website](https://sites.google.com/view/priyabrata-mishra)
+- Link to my [Personal Website or Portfolio](https://sites.google.com/view/priyabrata-mishra)
