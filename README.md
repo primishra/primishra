@@ -2,7 +2,7 @@
 
 - Applied Mathematics Student.
 - Interested in Statistics, Machine Learning, Numerical Analysis and other fields related to these.
-- Computer Languages & Tools - Python, R, C, Core Java, MATLAB, SQL, LaTex, Origin, MS Office
+- Computer Languages & Tools - Python, C, Core Java, LaTex, Origin, MS Office and Basics of R, MATLAB, SQL
 - Languages I speak - English, Hindi, & Odia
 
 #### Work Experience
