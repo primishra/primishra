@@ -8,7 +8,7 @@
 #### Work Experience
 
 - Research Intern at IISER Kolkata (May 2021 - Present)
-- Student Researcher at BIT Mesra (January 2021 - Present)
+- Research Assistant at BIT Mesra (January 2021 - Present)
 - Research Intern at IIM Calcutta (May 2020 - September 2020)
 - Research Intern at IASST Guwahati (DST Lab, Govt. of India) (May 2019 - June 2019)
 
