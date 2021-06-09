@@ -1,7 +1,7 @@
 #### About Me
 
 - Applied Mathematics Student.
-- Interested in Statistics, Machine Learning, Numerical Analysis.
+- Interested in Statistics & Machine Learning.
 - Exploring Natural Language Processing and Computer vision.
 - Computer Languages & Tools - Python, C, Core Java, LaTex, Origin, MS Office and Basics of R, MATLAB, SQL
 - Languages I speak - English, Hindi, & Odia
