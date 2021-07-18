@@ -16,7 +16,7 @@
 - Research Intern at IASST Guwahati (DST Lab, Govt. of India) (May 2019 - June 2019)
 
 ### Connect with me
-- 👨‍💻 My personal website/portfolio [https://primishra.github.io/webpage/](https://primishra.github.io/webpage/)
+- 👨‍💻 My personal website/portfolio - [https://primishra.github.io/webpage/](https://primishra.github.io/webpage/)
 
 
 <p align="center">
