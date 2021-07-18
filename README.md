@@ -20,4 +20,4 @@
 - Link to my [Personal Website or Portfolio](https://primishra.github.io/webpage/)
 
 
-[![Priyabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=primishra)]
+![Priyabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=primishra&hide=prs,issues,contribs)
