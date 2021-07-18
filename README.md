@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyabrata Mishra!</h1>
+<h1 align="center">Hi there, I'm Priyabrata Mishra!</h1>
 
 ### About Me
 
