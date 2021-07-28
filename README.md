@@ -26,5 +26,6 @@
 </p>
 <br>
 
+![](https://komarev.com/ghpvc/?username=primishra&style=flat-square)
 
 ![Priyabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=primishra&count_private=true&hide=prs,issues,contribs,stars&show_icons=true&theme=dark)
