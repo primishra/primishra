@@ -31,3 +31,8 @@
 ![Priyabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=primishra&count_private=true&hide=prs,issues,contribs,stars&show_icons=true&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=primishra&style=flat-square)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primishra&layout=compact)
+
