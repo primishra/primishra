@@ -10,7 +10,8 @@
 
 ### Work Experience
 
-- Research Intern - Master's Thesis at ISI Kolkata (August 2021 - Present)
+- Master's Thesis Research Student at ISI Kolkata (August 2021 - Present)
+- Junior Machine Learning Engineer at Omdena, partnered with Endangered Wildlife OU (August 2021 - Present)
 - Research Intern at IISER Kolkata (May 2021 - July 2021)
 - Research Assistant at BIT Mesra (January 2021 - April 2021)
 - Research Intern at IIM Calcutta (May 2020 - September 2020)
