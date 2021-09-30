@@ -11,12 +11,14 @@
 ### Work Experience
 
 - Master's Thesis Research Student at ISI Kolkata (August 2021 - Present)
+- Data Science Intern at Technovert Solutions (October 2021 - Present)
 - Research Intern at IISER Kolkata (May 2021 - July 2021)
 - Research Intern at IIM Calcutta (May 2020 - September 2020)
 - Research Intern at IASST Guwahati (DST Lab, Govt. of India) (May 2019 - June 2019)
 
 #### Projects
-- Writer Dependent and Writer Independent Online Signature Verification
+- Writer Dependent Online Signature Verification
+- Writer Dependent and Writer Independent Offline Signature Verification
 
 ### Connect with me
 - 👨‍💻 My personal website/portfolio - [https://primishra.github.io/webpage/](https://primishra.github.io/webpage/)
