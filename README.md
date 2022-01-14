@@ -10,6 +10,7 @@
 
 ### Work Experience
 
+- Master's Thesis Research at BIT Mesra (January 2022 - Present)
 - Data Science Intern at Technovert Solutions (October 2021 - Present)
 - Research Intern at IISER Kolkata (May 2021 - July 2021)
 - Research Intern at IIM Calcutta (May 2020 - September 2020)
