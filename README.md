@@ -10,23 +10,21 @@
 
 ### Work Experience
 
-- Master's Thesis Research at BIT Mesra (January 2022 - Present)
-- Data Science Intern at Technovert Solutions (October 2021 - January 2022)
-- Research Intern at IISER Kolkata (May 2021 - July 2021)
-- Research Intern at IIM Calcutta (May 2020 - September 2020)
-- Research Intern at IASST Guwahati (DST Lab, Govt. of India) (May 2019 - June 2019)
+- Data Science Intern - Machine Learning at Technovert Solutions (October 2021 - January 2022)
+- Research Intern - Information Retrieval at IISER Kolkata (May 2021 - July 2021)
+- Research Intern - NLP at IIM Calcutta (May 2020 - September 2020)
+- Research Intern - Statistics & Operations Research at IASST Guwahati (DST Lab, Govt. of India) (May 2019 - June 2019)
 
 #### Projects
-- Writer Dependent Online Signature Verification
-- Writer Dependent and Writer Independent Offline Signature Verification
+- Master's Thesis at BIT Mesra (Outlier Analysis)
+- Writer Dependent Online Signature Verification (Image Classification)
+- Writer Dependent and Writer Independent Offline Signature Verification (Image Classification)
 
 ### Connect with me
-- 👨‍💻 My personal website/portfolio - [https://primishra.github.io/webpage/](https://primishra.github.io/webpage/)
 
-
-<p align="center">
+<p align="left">
 <br>
-<a href="mailto:imh10025.17@bitmesra.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:priyabrata2106@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/priyabratamishra10/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 <br>
