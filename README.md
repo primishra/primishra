@@ -20,13 +20,6 @@
 
 ### Connect with me
 
-- [Mail](mailto:priyabrata2106@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/priyabratamishra10/)
-
-
-<p align="left">
-<br>
-<a href="mailto:priyabrata2106@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/priyabratamishra10/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-</p>
-<br>
+- Mail - [priyabrata2106@gmail.com](mailto:priyabrata2106@gmail.com)
+- LinkedIn - [priyabratamishra10](https://www.linkedin.com/in/priyabratamishra10/)
+- [My Resume](https://drive.google.com/file/d/18y9evvvv5ZDKL2gqbPVWvy_iXHk8Ry5-/view?usp=sharing)
