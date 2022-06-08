@@ -20,6 +20,10 @@
 
 ### Connect with me
 
+- [Mail](mailto:priyabrata2106@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/priyabratamishra10/)
+
+
 <p align="left">
 <br>
 <a href="mailto:priyabrata2106@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
