@@ -8,7 +8,7 @@
 
 ### Work Experience
 
-- Full-time Research Assistant at IIIT Delhi - NLP (April 2022 - Present)
+- Full-time Research Assistant at IIIT Delhi - NLP (April 2022 - August 2022)
 - Data Science Intern - Machine Learning at Technovert Solutions (October 2021 - January 2022)
 - Research Intern - Information Retrieval at IISER Kolkata (May 2021 - July 2021)
 - Research Intern - NLP at IIM Calcutta (May 2020 - September 2020)
@@ -22,4 +22,4 @@
 
 - Mail - [priyabrata2106@gmail.com](mailto:priyabrata2106@gmail.com)
 - LinkedIn - [priyabratamishra10](https://www.linkedin.com/in/priyabratamishra10/)
-- [My Resume](https://drive.google.com/file/d/1-KeELVIRhE1xEEGArcIXn99YsI5f0GHR/view?usp=sharing)
+- [My Resume](https://drive.google.com/file/d/165wxLxiASz6fKgBNGuMXBmkf2YYMxc3i/view?usp=sharing)
