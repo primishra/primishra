@@ -9,7 +9,7 @@
 ### Work Experience
 
 - Data Scientist at InvoLead (September 2022 -Present)
-- Full-time Research Assistant at IIIT Delhi - NLP (April 2022 - August 2022)
+- Research Assistant at IIIT Delhi - NLP (April 2022 - August 2022)
 - Data Science Intern - Machine Learning at Technovert Solutions (October 2021 - January 2022)
 - Research Intern - Information Retrieval at IISER Kolkata (May 2021 - July 2021)
 - Research Intern - NLP at IIM Calcutta (May 2020 - September 2020)
