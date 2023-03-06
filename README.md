@@ -23,4 +23,4 @@
 
 - Mail - [priyabrata2106@gmail.com](mailto:priyabrata2106@gmail.com)
 - LinkedIn - [priyabratamishra10](https://www.linkedin.com/in/priyabratamishra10/)
-- [My Resume](https://drive.google.com/file/d/165wxLxiASz6fKgBNGuMXBmkf2YYMxc3i/view?usp=sharing)
+- [My Resume](https://drive.google.com/file/d/1kHD8UR-hyJrHYKwbAUwmJzXssCA_L2EM/view?usp=sharing)
