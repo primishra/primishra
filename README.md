@@ -8,7 +8,8 @@
 
 ### Work Experience
 
-- Data Scientist at InvoLead (September 2022 -Present)
+- Data Scientist at RevSure AI (October 2024 - Present)
+- Data Scientist at InvoLead (September 2022 - October 2024)
 - Research Assistant at IIIT Delhi - NLP (April 2022 - August 2022)
 - Data Science Intern - Machine Learning at Technovert Solutions (October 2021 - January 2022)
 - Research Intern - Information Retrieval at IISER Kolkata (May 2021 - July 2021)
