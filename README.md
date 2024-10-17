@@ -1,26 +1,28 @@
-<h1 align="center">Hi there, I'm Priyabrata Mishra!</h1>
+<h1 align="center">Welcome, I'm Priyabrata Mishra</h1>
 
-### About Me
+### 👨‍💻 About Me
+I'm a Data Scientist with a strong foundation in **Machine Learning**, specializing in **NLP**, **Time Series Analysis**, and **Predictive Modeling**. I’ve worked on diverse projects in domains like **Healthcare**, **EV Charging**, and **Retail**, delivering insights from data to drive decision-making. Passionate about solving real-world problems through advanced analytics and cutting-edge technology.
 
-- Interested in Machine Learning; Exploring Natural Language Processing, Computer vision, and other applicaions.
-- Computer Languages & Tools - Python, C, Origin, MS Office and Basics of R, Core Java, MATLAB, SQL, LaTex
-- Languages I speak - English, Hindi, & Odia
+### 💼 Professional Experience
+- **Data Scientist** | RevSure AI | _Oct 2024 - Present_
+- **Data Scientist** | InvoLead | _Sep 2022 - Oct 2024_
+- **Research Assistant (NLP)** | IIIT Delhi | _Apr 2022 - Aug 2022_
+- **Data Science Intern (Machine Learning)** | Technovert Solutions | _Oct 2021 - Jan 2022_
+- **Research Intern (Information Retrieval)** | IISER Kolkata | _May 2021 - Jul 2021_
+- **Research Intern (NLP)** | IIM Calcutta | _May 2020 - Sep 2020_
+- **Research Intern (Statistics & Operations Research)** | IASST Guwahati (Govt. of India) | _May 2019 - Jun 2019_
 
-### Work Experience
+### 🛠️ Projects
+- **Writer Dependent Online Signature Verification** (Image Classification)
+- **Writer Dependent and Writer Independent Offline Signature Verification** (Image Classification)
 
-- Data Scientist at RevSure AI (October 2024 - Present)
-- Data Scientist at InvoLead (September 2022 - October 2024)
-- Research Assistant at IIIT Delhi - NLP (April 2022 - August 2022)
-- Data Science Intern - Machine Learning at Technovert Solutions (October 2021 - January 2022)
-- Research Intern - Information Retrieval at IISER Kolkata (May 2021 - July 2021)
-- Research Intern - NLP at IIM Calcutta (May 2020 - September 2020)
-- Research Intern - Statistics & Operations Research at IASST Guwahati (DST Lab, Govt. of India) (May 2019 - June 2019)
+### 🛠️ Technical Skills
+- **Programming Languages:** Python, R, SQL, MATLAB, C, Core Java
+- **Libraries/Frameworks:** TensorFlow, PyTorch, Scikit-learn, Numpy, Pandas, Matplotlib, Streamlit
+- **Tools:** Git, Jupyter, MS Office, LaTex
+- **Database/Querying:** MySQL, PostgreSQL
+- **Cloud Platforms:** AWS, GCP
 
-#### Projects
-- Writer Dependent Online Signature Verification (Image Classification)
-- Writer Dependent and Writer Independent Offline Signature Verification (Image Classification)
-
-### Connect with me
-
-- Mail - [priyabrata2106@gmail.com](mailto:priyabrata2106@gmail.com)
-- LinkedIn - [priyabratamishra10](https://www.linkedin.com/in/priyabratamishra10/)
+### 📫 How to Reach Me
+- **Email:** [priyabrata2106@gmail.com](mailto:priyabrata2106@gmail.com)
+- **LinkedIn:** [Priyabrata Mishra](https://www.linkedin.com/in/priyabratamishra10/)
