@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm Priyabrata Mishra</h1>
 
 ### 👨‍💻 About Me
-I'm a Data Scientist with a strong foundation in **Machine Learning**, specializing in **NLP**, **Time Series Analysis**, and **Predictive Modeling**. I’ve worked on diverse projects in domains like **Healthcare**, **EV Charging**, and **Retail**, delivering insights from data to drive decision-making. Passionate about solving real-world problems through advanced analytics and cutting-edge technology.
+I'm a Data Scientist with expertise in delivering **end-to-end solutions**, from data collection and preprocessing to building, deploying, and monitoring advanced statical, machine learning, & deep learning models. I specialize in **NLP**, **Time Series Analysis**, and **Predictive Modeling**, and have worked in diverse domains, including **B2B**, **Healthcare**, **Pharmacy**, **EV Charging**, and **Retail**. Passionate about solving real-world problems through advanced analytics and cutting-edge technology.
 
 ### 💼 Professional Experience
 - **Data Scientist** | RevSure AI | _Oct 2024 - Present_
@@ -12,14 +12,10 @@ I'm a Data Scientist with a strong foundation in **Machine Learning**, specializ
 - **Research Intern (NLP)** | IIM Calcutta | _May 2020 - Sep 2020_
 - **Research Intern (Statistics & Operations Research)** | IASST Guwahati (Govt. of India) | _May 2019 - Jun 2019_
 
-### 🛠️ Projects
-- **Writer Dependent Online Signature Verification** (Image Classification)
-- **Writer Dependent and Writer Independent Offline Signature Verification** (Image Classification)
-
 ### 🛠️ Technical Skills
-- **Programming Languages:** Python, R, SQL, MATLAB, C, Core Java
-- **Libraries/Frameworks:** TensorFlow, PyTorch, Scikit-learn, Numpy, Pandas, Matplotlib, Streamlit
-- **Tools:** Git, Jupyter, MS Office, LaTex
+- **Programming Languages and Frameworks:** Python, SQL, PySpark
+- **Libraries/Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, Numpy, Pandas, Matplotlib, SpaCy, NLTK, statsmodels, scipy, Gensim, Flask
+- **Tools:** Version Control & Git, Docker, Jupyter, MS Office, Power BI
 - **Database/Querying:** MySQL, PostgreSQL
 - **Cloud Platforms:** AWS, GCP
 
