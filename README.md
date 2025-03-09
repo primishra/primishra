@@ -4,7 +4,8 @@
 I'm a Data Scientist with expertise in delivering **end-to-end solutions**, from data collection and preprocessing to building, deploying, and monitoring advanced statical, machine learning, & deep learning models. I specialize in **NLP**, **Time Series Analysis**, and **Predictive Modeling**, and have worked in diverse domains, including **B2B**, **Healthcare**, **Pharmacy**, **EV Charging**, and **Retail**. Passionate about solving real-world problems through advanced analytics and cutting-edge technology.
 
 ### 💼 Professional Experience
-- **Data Scientist** | RevSure AI | _Oct 2024 - Present_
+- **Data Scientist Specialist** | Redaptive Inc | _Jan 2025 - Present_
+- **Data Scientist** | RevSure AI | _Oct 2024 - Jan 2025_
 - **Data Scientist** | InvoLead | _Sep 2022 - Oct 2024_
 - **Research Assistant (NLP)** | IIIT Delhi | _Apr 2022 - Aug 2022_
 - **Data Science Intern (Machine Learning)** | Technovert Solutions | _Oct 2021 - Jan 2022_
