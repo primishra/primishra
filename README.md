@@ -15,10 +15,10 @@ I'm a Data Scientist with expertise in delivering **end-to-end solutions**, from
 
 ### 🛠️ Technical Skills
 - **Programming Languages and Frameworks:** Python, SQL, PySpark
-- **Libraries/Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, Numpy, Pandas, Matplotlib, SpaCy, NLTK, statsmodels, scipy, Gensim, Flask
+- **Libraries/Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, Numpy, Pandas, Matplotlib, SpaCy, NLTK, statsmodels, scipy, Gensim, Flask, Langchain, Splink, Plotly
 - **Tools:** Version Control & Git, Docker, Jupyter, MS Office, Power BI
 - **Database/Querying:** MySQL, PostgreSQL
-- **Cloud Platforms:** AWS, GCP
+- **Cloud Platforms:** AWS, GCP, Databricks
 
 ### 📫 How to Reach Me
 - **Email:** [priyabrata2106@gmail.com](mailto:priyabrata2106@gmail.com)
