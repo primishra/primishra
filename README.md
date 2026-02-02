@@ -11,6 +11,8 @@ I’ve applied these skills across multiple domains such as Marketing Tech, Sale
 - **Data Scientist Specialist** | Redaptive Inc | _Jan 2025 - Present_
 - **Data Scientist** | RevSure AI | _Oct 2024 - Jan 2025_
 - **Data Scientist** | InvoLead | _Sep 2022 - Oct 2024_
+
+### 🧑🏼‍💻 Internships
 - **Research Assistant (NLP)** | IIIT Delhi | _Apr 2022 - Aug 2022_
 - **Data Science Intern (Machine Learning)** | Technovert Solutions | _Oct 2021 - Jan 2022_
 - **Research Intern (Information Retrieval)** | IISER Kolkata | _May 2021 - Jul 2021_
