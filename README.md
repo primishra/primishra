@@ -8,7 +8,7 @@ Recently, my focus has expanded to Generative AI, including RAG systems, AI agen
 I’ve applied these skills across multiple domains such as Marketing Tech, Sales Tech, Retail, Pharmacy, and Energy, and I’m driven by solving meaningful problems using practical, well-engineered AI solutions.
 
 ### 💼 Professional Experience
-- **Data Scientist Specialist** | Redaptive Inc | _Jan 2025 - Present_
+- **Data Scientist Specialist** | Redaptive Inc | _Jan 2025 - Apr 2026_
 - **Data Scientist** | RevSure AI | _Oct 2024 - Jan 2025_
 - **Data Scientist** | InvoLead | _Sep 2022 - Oct 2024_
 
